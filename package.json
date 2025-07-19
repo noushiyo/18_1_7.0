@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
     "libxmljs": "^0.19.7",
-    "multer": "^1.4.2",
+    "multer": "^2.0.2",
     "mysql": "^2.18.1",
     "request": "^2.88.2",
     "xml-js": "^1.6.11",
